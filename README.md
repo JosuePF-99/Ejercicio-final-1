@@ -11,7 +11,6 @@ _Que trae esta basofia :_
 
 * **3.**  Diccionarios
 
-* --------------------------------------------------------------------------------------------------------------------------------------
 
 ### REQUISITOS 📋
 
@@ -24,16 +23,16 @@ apt-get install python
 ```
 pip install colorama
 ```
-* -----------------------------------------------------------------------------------------------------------------------------------------
+
 ### CREADO/DESARROLLADO 🍺:
 
 * [VISUAL STUDIO CODE](https://code.visualstudio.com/)
 * [MIS MANITAS DESNUDAS](https://mismanitas.onion) <---no le des click
-* -----------------------------------------------------------------------------------------------------------------------------------------
+
 
 ### Dedicatoria ❤️:
 
 * Esta script se la dedico a mis chuchos por que son unos reverendo ereges.
 * tambien gracias a la escrupulosa organizacion a la que pertenesco [contribuyentes](https://github.com/lupusre) quíenes han participado en este proyecto. 
-* -----------------------------------------------------------------------------------------------------------------------------------------
+ 
 
