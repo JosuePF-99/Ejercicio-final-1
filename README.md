@@ -4,7 +4,7 @@
 [![Build Status](https://img.shields.io/badge/-VSC-blue?logo=visual-studio-code&?style=for-the-badge)](https://github.com/JosuePF/Ejercicio-final-1)
 [![License](https://img.shields.io/badge/license-MYdIc-yellow)](https://github.com/JosuePF/Ejercicio-final-1)
 
-
+![alt text](https://github.com/BarbatosRE/Cachuch0/blob/master/tuxvsF.png?raw=true) 
 
 # Ejercicio-final-1
 este es un ejercicio final el cual tiene 10 partes 
