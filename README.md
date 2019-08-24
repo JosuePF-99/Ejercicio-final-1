@@ -37,7 +37,7 @@ pip install colorama
 ### CREADO/DESARROLLADO 🍺:
 
 * [VISUAL STUDIO CODE](https://code.visualstudio.com/)
-* [MIS MANITAS DESNUDAS](https://mismanitas.onion) <---no le des click
+* [MIS MANITAS DESNUDAS](http://3g2upl4pq6kufc4m.onion/) <---no le des click
 
 
 ### Dedicatoria ❤️:
