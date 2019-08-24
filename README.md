@@ -42,7 +42,7 @@ pip install colorama
 
 ### Dedicatoria ❤️:
 
-* Esta script se la dedico a mis chuchos por que son unos reverendo ereges.
+* Esta script se la dedico a mis chuchos por que son unos reverendos ereges.
 * tambien gracias a la escrupulosa organizacion a la que pertenesco [contribuyentes](https://github.com/lupusre) quíenes han participado en este proyecto. 
  
 
